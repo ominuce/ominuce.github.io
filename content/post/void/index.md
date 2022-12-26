@@ -8,7 +8,7 @@ weight = "0"
 
 <!--more-->
 
-###### Screenshot of *The Beach* VOID, Everyware, 2017, AR (augmented reality), Nicolas Leray game & level design, programming, Clément Sipion game & level design, arts, Lucile Thierry game & level design, arts
+###### Screenshot of *the beach* VOID, Everyware, 2017, AR (augmented reality), Nicolas Leray game & level design, programming, Clément Sipion game & level design, arts, Lucile Thierry game & level design, arts
 
 In *VOID* we spatialized science fiction comic strip vignettes in a projected space within tablets. While questioning the inter-iconic space and the formation of a hypertextual comic strip.
 

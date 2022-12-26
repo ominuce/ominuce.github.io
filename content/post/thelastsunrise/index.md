@@ -9,9 +9,9 @@ weight = 0
 
 <!--more-->
 
-###### Frame of *The last sunrise*, installation, video, video projector, loungers, tequila sunrise, bossa nova, Lucile Thierry & Clément Lévignat 
+###### Frame of *the last sunrise*, installation, video, video projector, loungers, tequila sunrise, bossa nova, Lucile Thierry & Clément Lévignat 
 
-The last sunrise set up a slow-motion video recording of a nuclear test, with bossa nova playing in the background. Spectators take a seat in one of the two sun loungers, and glasses of tequila sunrise are available.
+*the last sunrise* set up a slow-motion video recording of a nuclear test, with bossa nova playing in the background. Spectators take a seat in one of the two sun loungers, and glasses of tequila sunrise are available.
 
 Pushed to its farthest extent, the slow-motion show abstracts and aestheticizes the images of the nuclear explosion. The cynical behavior of the piece is quickly replaced by visual and immersive chaos, to the point where we forget its origin until the end.
 
