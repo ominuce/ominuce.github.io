@@ -1,5 +1,5 @@
 title = "GAME DESIGNER"
-baseURL = "https://lucilethierry.gitlab.io/"
+baseURL = "https://ominuce.github.io"
 theme = "classless-blog-main"
 
 [author]
@@ -7,6 +7,7 @@ theme = "classless-blog-main"
 
 [params]
 	mail = "lucile.thierry@protonmail.com"
+
 # (Working) examples for overwriting the stylesheetUrl, just uncomment one of them
 # stylesheetUrl = "https://classless.de/classless.css"
 # stylesheetUrl = "https://unpkg.com/marx-css/css/marx.min.css"
