@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+<h1>
+  {{ .Site.Author.name }}
+</h1>
+
+<b>
+  {{ .Title }}
+</b>
+
+{{ partial "content_list.html" . }}
+
+{{ end }}
