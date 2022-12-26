@@ -8,10 +8,10 @@ weight = 0
 +++
 
 <!--more-->
-###### Terrain Vagues, *Lucile Thierry, 3D, 2016*
+###### terrain vagues, *Lucile Thierry, 3D, 2016*
 
-*Terrain Vagues* is an *in situ* piece that never was. In a room, a garden, or a waste ground, *Terrain Vagues* offers the experience of walking on a concrete sea of melted buildings. The piece should never be built for ecological reasons. A piece that deeply addresses issues of material waste and ecology should not be made from such materials.
+*terrain vagues* is an *in situ* piece that never was. In a room, a garden, or a waste ground, *Terrain Vagues* offers the experience of walking on a concrete sea of melted buildings. The piece should never be built for ecological reasons. A piece that deeply addresses issues of material waste and ecology should not be made from such materials.
 
-![terrainvagues][2]
-###### Terrain Vagues, *Lucile Thierry, 3D, 2016*
+![terrain vagues][2]
+###### terrain vagues, *Lucile Thierry, 3D, 2016*
 [2]: terrainvaguedetoure.png
