@@ -5,8 +5,6 @@ author = "Lucile Thierry"
 weight = 100
 +++
 
-*Looking for a 4 to 6 month internship, starting from March!*
-
 <!--more-->
 
 Hi, I'm UCE a game designer and artist. My mains interests are Science Fiction, Post-Apo and Utopia.

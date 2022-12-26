@@ -8,6 +8,14 @@
   {{ .Title }}
 </b>
 
+<br>
+
+{{ if .Site.Author.declaration }}
+<i>
+  {{ .Site.Author.declaration }}
+</i>
+{{ end }}
+
 {{ partial "content_list.html" . }}
 
 {{ end }}

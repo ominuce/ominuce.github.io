@@ -4,10 +4,11 @@ theme = "classless-blog-main"
 
 [author]
 	name = "LUCILE THIERRY"
+	declaration = "Looking for a 4 to 6 months internship, starting from March!"
 
 [params]
 	mail = "lucile.thierry@protonmail.com"
-
+	
 # (Working) examples for overwriting the stylesheetUrl, just uncomment one of them
 # stylesheetUrl = "https://classless.de/classless.css"
 # stylesheetUrl = "https://unpkg.com/marx-css/css/marx.min.css"
