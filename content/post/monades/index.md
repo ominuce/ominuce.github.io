@@ -2,7 +2,7 @@
 showonlyimage = true
 draft = false
 image = "monades1.jpg"
-date = "2017-11-05"
+date = "2017-01-05"
 title = "monades"
 weight = 0
 +++
