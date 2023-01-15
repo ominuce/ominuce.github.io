@@ -10,4 +10,4 @@ weight = 100
 Hi, I'm UCE a game designer and artist. My mains interests are Science Fiction, Post-Apo and Utopia.
 You will find in this site a selection of my works, latest to oldest.
 
-Here's my [CV](/lucilethierryCV.pdf).
+Here's my [CV](/LucileThierry_CV_2023.pdf).
