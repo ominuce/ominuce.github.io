@@ -5,9 +5,7 @@ theme = "classless-blog-main"
 [author]
 	name = "LUCILE THIERRY"
 	declaration = Hi, I'm UCE a game designer and artist. My mains interests are Science Fiction, Post-Apo and Utopia.
-	You will find in this site a selection of my works, latest to oldest.
-
-	"Looking for a 4 to 6 months internship, starting from March!"
+	You will find in this site a selection of my works, latest to oldest. "Looking for a 4 to 6 months internship, starting from March!"
 
 [params]
 	mail = "lucile.thierry@protonmail.com"
