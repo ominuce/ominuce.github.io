@@ -1,7 +1,7 @@
 ---
 title: "Lost In Depiction"
 date: 2022-01-01
-draft: true
+draft: false
 ---
 
 ![LID](./images/logo.png#half)

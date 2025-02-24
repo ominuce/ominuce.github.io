@@ -1,7 +1,7 @@
 ---
 title: "DNSEP"
 date: 2017-05-02
-draft: true
+draft: false
 ---
 
 J'ai articulé mon DNSEP et l'intégralité de mon travail d'artiste plasticien autour de la science-fiction des années 80-90 et de l'obsession de certains écrivains pour les nouvelles technologies et le témoignage de la transformation rapide du monde.

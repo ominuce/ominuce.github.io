@@ -1,7 +1,7 @@
 ---
 title: "Togs Memories"
 date: 2021-01-01
-draft: true
+draft: false
 ---
 ![TM](./images/logo.png#half)
 *logo togs - [Sebastian Pastor Ploskonka](https://www.artstation.com/plosko)*
