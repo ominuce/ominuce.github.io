@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-[Les Merlies]('https://store.steampowered.com/app/2521160/The_Merlies/') est un side scroller 2D avec un double coeur gameplay, de l'exploration type metroidvania et du toy type village building.
+Les Merlies est un side scroller 2D avec un double coeur gameplay, de l'exploration type metroidvania et du toy type village building.
 
 Autour des thématiques écologiques (conservation de l'environnement, "upcycling"), on incarne des petits êtres, empruntés aux folkores nordiques, qui subissent la violence des changements climatiques et cherchent à s'organiser en communauté pour survivre.
 
