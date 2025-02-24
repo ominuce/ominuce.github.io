@@ -55,5 +55,3 @@ Cette pièce de VR nous fait visiter une version 3D très approximative de Venis
 Dans l'ensemble, mon travail plastique est composé de matières brutes (le plâtre, le béton, le néon) sur lesquelles j'ai un impact moindre. Toutes les pièces existent ensemble et n'ont que peu d'intérêt séparées, si elles n'apparaissent pas toutes en même temps, elles ne sont jamais présentées isolées.
 
 [[Top]](#top)
-
-bisous bisous
