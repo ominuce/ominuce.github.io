@@ -5,7 +5,7 @@ draft: false
 ---
 
 ![The Merlies](./images/logo.png)
-*logo The Merlies - [Cosmografik](https://cosmografik.itch.io/)*
+*logo The Merlies - [Cosmografik](https://bsky.app/profile/cosmografik.bsky.social)*
 
 `unity/8h/recyclevania/sidescroll 2D`
 

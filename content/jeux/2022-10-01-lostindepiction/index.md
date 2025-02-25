@@ -11,7 +11,7 @@ draft: false
 
 ---
 
-Lost in Depiction est le projet de Master sur lequel j'ai été co GD, LD et inté. L'exercice consiste en une verticale slice jouable, d'une dizaine de minute.
+Lost in Depiction est le projet de Master sur lequel j'ai été co GD et LD. L'exercice consiste en une verticale slice jouable, d'une dizaine de minute.
 
 On a fini par désigner LID comme un knowledgeVania, à la manière de OutterWilds (cetait_la_mode_a_lepoque.jpg), où il faut trouver les informations pour résoudre l'énigme qui nous enferme.
 
