@@ -25,14 +25,22 @@ A partir d'ici, vous trouverez une suite de doc sur lesquels j'ai travaillé seu
 ## GD - village
 
 ### fanzine
-Cette feature de fanzine devait lier le village et l'exploration en donnant une vision de l'avancé aux joueureuses. Cependant, elle a été cut avec le temps, car elle répondait avec difficulté aux impératifs. 
+Cette feature de fanzine devait lier le village et l'exploration et donnait:
+- une vision sur la progression aux joueureuses via un apperçu des zones découvertes et les aventures arrivée dans ces zones.
+- une sensation de vie au village avec des Merlies non jouables qui écrivent les histoires qu'ils ont vécu pendant qu'on était en exploration.
+
+Cependant, elle a été cut car le jeu ayant changé en profondeur, elle ne correspondait plus à l'ambiance du jeu.
 ![le fanzine](./images/cartefanzine.png)
 *fanzine des Merlies*
 
 [[Top]](#top)
 
 ### mini-jeux
-Le village demande un minimum d'entretient pour que les Merlies soient contents et que des nouveaux Merlies arrivent. L'entretient revêt deux formes, les mini-jeux avec les Merlies habitants de la souche comme : cache-chache, visite guidée, corde à sauté, et les corvées comme ramasser les feuilles mortes, nettoyer et réparer après une tempête.
+Le village demande un minimum d'entretient pour que les Merlies soient contents et que de nouveaux Merlies arrivent. L'entretient revêt deux formes : 
+- les mini-jeux avec les Merlies habitants de la souche : 
+	- cache-chache, visite guidée, corde à sauté,
+- et les corvées : 
+	- ramasser les feuilles mortes, nettoyer et réparer après une tempête.
 
 `Bref ça prend cette forme là :`
 ![les mini-jeux](./images/minijeux.png)
