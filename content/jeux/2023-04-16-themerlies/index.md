@@ -38,15 +38,17 @@ Cependant, elle a été cut car le jeu ayant changé en profondeur, elle ne corr
 ### mini-jeux
 Le village demande un minimum d'entretient pour que les Merlies soient contents et que de nouveaux Merlies arrivent. L'entretient revêt deux formes : 
 - les mini-jeux avec les Merlies habitants de la souche : 
-	- cache-chache, visite guidée, corde à sauté,
+	- cache-chache, visite guidée, corde à sauté
 - et les corvées : 
 	- ramasser les feuilles mortes, nettoyer et réparer après une tempête.
 
 `Bref ça prend cette forme là :`
+
 ![les mini-jeux](./images/minijeux.png)
 *les mini-jeux*
 
 Parfois, c'est plus simple de faire des schéma, alors :
+
 ![wack-a-mole](./images/guacamole.png)
 *whack a mole*
 
