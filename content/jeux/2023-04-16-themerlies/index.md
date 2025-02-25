@@ -13,7 +13,8 @@ Les Merlies est un side scroller 2D avec un double coeur gameplay, de l'explorat
 Autour des thématiques écologiques (conservation de l'environnement, "upcycling"), on incarne des petits êtres, empruntés aux folkores nordiques, qui subissent la violence des changements climatiques et cherchent à s'organiser en communauté pour survivre.
 
 Sur les Merlies, je suis GD et LD. 
-- Chaque features développées à comme condition essentielle d'être liées autant au village qu'à l'exploration. 
+- Chaque features développées à comme condition essentielle d'être liées autant au village qu'à l'exploration.
+- Les features doivent nous faire ressentir la nécessité du groupe (exploration) et de la communauté (village).
 - En LD il est important de garder en tête le public cible du jeu : hyper casu à gamers, si bien qu'il faut réussir à combiner un main path très accessible entourés de zones plus complexes pour créer du challenge pour ceux qui souhaite collectionner tous les items.
 - L'intégration des mises en scène orientés challenge ou narration à demandé une passe supplémentaire de documentation, afin de séquencer l'évenement et prendre du recule sur les tools manquants, ou les chemins de travers envisageables pour obtenir la bonne sensation en jeu.
 
