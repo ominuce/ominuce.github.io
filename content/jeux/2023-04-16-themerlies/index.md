@@ -5,6 +5,7 @@ draft: false
 ---
 
 ![The Merlies](./images/logo.png)
+*logo The Merlies - [Cosmografik](https://cosmografik.itch.io/)*
 
 `unity/8h/recyclevania/sidescroll 2D`
 
@@ -32,7 +33,7 @@ Cette feature de fanzine devait lier le village et l'exploration et donnait :
 Cependant, elle a été cut car le jeu ayant changé en profondeur, elle ne correspondait plus à l'ambiance du jeu.
 
 ![le fanzine](./images/cartefanzine.png)
-*fanzine des Merlies*
+*schémas fanzine des Merlies*
 
 [[Top]](#top)
 
@@ -50,12 +51,12 @@ Le village demande un minimum d'entretien pour que les Merlies soient contents e
 `Bref ça prend cette forme là :`
 
 ![les mini-jeux](./images/minijeux.png)
-*les mini-jeux*
+*doc gd les mini-jeux*
 
 Parfois, c'est plus simple de faire des schémas, alors :
 
 ![wack-a-mole](./images/guacamole.png)
-*whack a mole*
+*schémas whack a mole*
 
 [[Top]](#top)
 
@@ -70,20 +71,20 @@ Les Merlies se déplacent en groupe, on ne peut pas quitter le village avec un M
 - un luciolier qui nous éclaire.
 
 ![Parasolier](./images/parasolier.png)
-*parasolier*
+*doc gd parasolier*
 
 ![Diver](./images/diver.png) 
-*diver*
+*doc gd diver*
 
 [[Top]](#top)
 
 ## LD - exploration
 
 ![Observator](./images/ld_observator.png)
-*watcher zone*
+*LD théorique watcher zone*
 
 ![Runzone](./images/minerzone.png)
-*miner zone*
+*LD théorique miner zone*
 
 [[Top]](#top)
 
@@ -92,5 +93,6 @@ Les Merlies se déplacent en groupe, on ne peut pas quitter le village avec un M
 Extrait de sequencer pour le prologue. Le bullet point contient autant d'information de mise en scène que le type de tools utilisé. Cette liste permet d'envisager les types de features qu'il manque et, ou de se mettre au point sur des précisions de mise en scène.
 
 ![Sequencer](./images/sequencer.png)
+*doc inté sequencer*
 
 [[Top]](#top)

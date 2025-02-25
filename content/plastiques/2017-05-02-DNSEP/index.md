@@ -14,7 +14,7 @@ Je voulais parler de jeux vidéo et d'espace non-tangible par des moyens détour
 
 ### le béton
 
-Ces colones de bétons sont des carottes comme celles de glace. Elles sont faites de couches successive de béton aux ratio sable/ciment différents. Leurs bases sont les plus sableuses et friables, leurs sommets plus compact et dense.
+Ces colonnes de bétons sont des carottes comme celles de glace. Elles sont faites de couches successives de béton aux ratio sable/ciment différents. Leurs bases sont les plus sableuses et friables, leurs sommets plus compacts et denses. Moyennant quoi, c'était des pièces autour desquelles il était assez dangereux de stationner.
 
 ![première colonne](./images/DSC8797.png "mini")
 
@@ -24,7 +24,7 @@ Ces colones de bétons sont des carottes comme celles de glace. Elles sont faite
 
 ### les paysages
 
-Ces photos représentent des paysages en reprennant les règles classiques du genre (format, 2/3 1/3). Certain soft de défrag de disc dur, donne des représentations visuel des éléments présents sur un disque dur. Les paramètres de chaque fichier (poids, genre, fonction) donnent des tailles de lignes et des couleurs différentes, à partir de ces conditions, c'était possible de créer des paysages.
+Ces photos représentent des paysages en reprenant les règles classiques du genre (format, 2/3 1/3). Certains softs de défrag de disques dur, donnent des représentations visuelles des éléments présents sur un disque dur. Les paramètres de chaque fichier (poids, genre, fonction) donnent des tailles de lignes et des couleurs différentes, à partir de ces conditions, c'était possible de créer des paysages.
 
 ![un paysage](./images/DSC8818.png "paysage")
 
@@ -34,7 +34,7 @@ Ces photos représentent des paysages en reprennant les règles classiques du ge
 
 ### le néon
 
-Dans la SF des années 80-90 on parle beaucoup de lumière néontique comme source lumineuse principale, voire qui remplace les sources naturelles. Le néon est alors une source lumineuse récente, qui prend une place prépondérante dans la vie quotidienne. J’ai assemblé des néons et les ai accrochés de façon à créer une frame identique à celle d’une fenêtre.
+Dans la SF des années 80-90, on parle beaucoup de lumière néontique comme source lumineuse principale, voire qui remplace les sources naturelles. Le néon est alors une source lumineuse récente, qui prend une place prépondérante dans la vie quotidienne. J’ai assemblé des néons et les ai accrochés de façon à créer une frame identique à celle d’une fenêtre.
 
 ![le néon](./images/DSC8827.png "néon")
 
@@ -52,6 +52,6 @@ Cette pièce de VR nous fait visiter une version 3D très approximative de Venis
 
 ### overall
 
-Dans l'ensemble, mon travail plastique est composé de matières brutes (le plâtre, le béton, le néon) sur lesquelles j'ai un impact moindre. Toutes les pièces existent ensemble et n'ont que peu d'intérêt séparées, si elles n'apparaissent pas toutes en même temps, elles ne sont jamais présentées isolées.
+Dans l'ensemble, mon travail plastique est composé de matières brutes (le plâtre, le béton, le néon) sur lesquelles j'ai un impact minimal. Toutes les pièces existent ensemble et n'ont que peu d'intérêt séparées, et si elles n'apparaissent pas toutes en même temps, elles ne sont jamais présentées isolées.
 
 [[Top]](#top)
