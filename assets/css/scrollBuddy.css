@@ -1,0 +1,144 @@
+// -------------- COLOR SWITCHER -------------- //
+@mixin theme($--bg-color){
+  .head, 
+  .body,
+  .left-arm,.right-arm,
+  .left-foot,.right-foot,
+  .left-arm-lower,.right-arm-lower,
+  .left-leg-upper,.right-leg-upper,
+  .left-leg-lower,.right-leg-lower
+  {background: $--bg-color}
+}
+@mixin darkbuddy-appearance {
+  @include theme(#ffffff); // modus-vivendi
+}
+
+@mixin lightbuddy-appearance {
+  @include theme(#000000); // modus-operandi
+}
+
+@media (prefers-color-scheme: dark) {
+  #scrollBuddy { @include darkbuddy-appearance; }
+}
+
+@media (prefers-color-scheme: light) {
+  #scrollBuddy { @include lightbuddy-appearance; }
+}
+
+// -------------------------------------------- //
+
+#scrollBuddy {
+  position: fixed;
+  right: 10px;
+  top: 50%;
+  width: 30px;
+  height: 70px;
+  transition: top 0.1s ease-out;
+  transform: rotate(270deg);
+  z-index: 1000;
+}
+
+/* Stick figure parts */
+.head {
+  width: 10px;
+  height: 10px;
+/*  background: black;*/
+  border-radius: 50%;
+  position: absolute;
+  left: 8px;
+  top: 0;
+}
+
+.body {
+  width: 2px;
+  height: 20px;
+/*  background: black;*/
+  position: absolute;
+  left: 12px;
+  top: 10px;
+}
+
+.left-arm,
+.right-arm {
+  width: 10px;
+  height: 2px;
+/*  background: black;*/
+  position: absolute;
+  transform: rotate(90deg);
+}
+
+.left-arm {
+  left: 13px;
+  top: 15px;
+  transform-origin: left center;
+}
+
+.right-arm {
+  left: 13px;
+  top: 15px;
+  transform-origin: left center;
+}
+
+.left-arm-lower,
+.right-arm-lower {
+  left: 13px;
+  top: 15px;
+  width: 8px;
+  height: 2px;
+/*  background: black;*/
+  position: absolute;
+  transform-origin: left center;
+}
+
+/* Updated leg styles with upper and lower segments */
+.left-leg-upper,
+.right-leg-upper {
+  width: 12px;
+  height: 2px;
+/*  background: black;*/
+  position: absolute;
+  transform-origin: top left;
+}
+
+.left-leg-upper {
+  left: 14px;
+  top: 30px;
+}
+
+.right-leg-upper {
+  left: 14px;
+  top: 30px;
+}
+
+.left-leg-lower,
+.right-leg-lower {
+  left: 14px;
+  top: 30px;
+  width: 10px;
+  height: 2px;
+/*  background: black;*/
+  position: absolute;
+  transform-origin: top left;
+}
+
+.left-foot,
+.right-foot {
+  left: 14px;
+  top: 30px;
+  width: 8px;
+  height: 2px;
+/*  background: black;*/
+  position: absolute;
+  transform-origin: left center;
+}
+
+#scrollBuddy.walkUp {
+  transform: rotate(-90deg) scaleX(-1);
+}
+
+@media (prefers-reduced-motion: reduce),
+screen and (max-width: 600px) {
+  #scrollBuddy {
+      display: none;
+  }
+}

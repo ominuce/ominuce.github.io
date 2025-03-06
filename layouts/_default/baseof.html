@@ -8,5 +8,21 @@
                 {{ partial "footer.html" }}
             </div>
         </main>
+    <div id="scrollBuddy">
+      <div class="head"></div>
+      <div class="body"></div>
+      <div class="left-arm"></div>
+      <div class="left-arm-lower"></div>
+      <div class="right-arm"></div>
+      <div class="right-arm-lower"></div>
+      <div class="left-leg-upper"></div>
+      <div class="left-leg-lower"></div>
+      <div class="left-foot"></div>
+      <div class="right-leg-upper"></div>
+      <div class="right-leg-lower"></div>
+      <div class="right-foot"></div>
+  </div>
+  {{ $scrollBuddy := resources.Get "js/scrollBuddy.js" }}
+  <script type="text/javascript" src="{{ $scrollBuddy.RelPermalink }}"></script>
     </body>
 </html>

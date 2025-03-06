@@ -25,6 +25,10 @@ Appartement se situe dans une époque plus lointaine, plus inconnue encore. Chan
 
 `unity|10 min|exploration|première personne`
 
+*Exploration* 
+
 ## De passage
 
 ![De passage](./images/DEpassage.png)
+
+L'exposition
