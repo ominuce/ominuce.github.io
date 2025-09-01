@@ -3,7 +3,7 @@ title: "Togs Memories"
 date: 2021-01-01
 draft: false
 ---
-![TM](./images/logo.png#half)
+![TM](./images/logo_white.png#half)
 *logo togs - [Sebastian Pastor Ploskonka](https://www.artstation.com/plosko)*
 
 `unity | 20 minutes | puzzle | troisième personne & top down`
