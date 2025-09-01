@@ -6,7 +6,7 @@ draft: false
 ![TM](./images/logo.png#half)
 *logo togs - [Sebastian Pastor Ploskonka](https://www.artstation.com/plosko)*
 
-`unity/20minutes/puzzle/troisième personne & top down`
+`unity | 20 minutes | puzzle | troisième personne & top down`
 
 ### general
 

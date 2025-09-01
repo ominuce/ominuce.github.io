@@ -27,6 +27,26 @@ title = "plastiques"
   show_more_url = "plastiques"
 
 [[entries]]
+title = "autres"
+
+  [entries.post_list]
+  section = "autres"
+  limit = 4
+  show_more = true
+  show_more_text = "voir les archives..."
+  show_more_url = "autres"
+
+[[entries]]
+title = "blog"
+
+  [entries.post_list]
+  section = "blog"
+  limit = 1
+  show_more = true
+  show_more_text = "voir les archives..."
+  show_more_url = "blog"
+
+[[entries]]
 title = "tous les posts"
 
   [entries.post_list]

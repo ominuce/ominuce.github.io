@@ -7,9 +7,8 @@ draft: false
 ![LID](./images/logo.png#half)
 *logo LID - [Rachel Dufossé](https://racheldfs.artstation.com/)*
 
-`unity/10 min/knowledgevania/première personne`
+`unity | 15 minutes | knowledgevania | première personne`
 
----
 
 Lost in Depiction est le projet de Master sur lequel j'ai été co GD et LD. L'exercice consiste en une verticale slice jouable, d'une dizaine de minute.
 
