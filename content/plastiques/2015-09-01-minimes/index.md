@@ -15,4 +15,4 @@ Ici, trois des animations réalisée pour le projet :
 
 ![éolienne](./images/eolienne.gif)
 
-Les animations de minimes sont toujours exposées ensembles. Projettées ou installées comme on accroche des cartes postales : à côté et au dessus les unes des autres, ou dans un empilement de télés catodiques.
+Les animations de minimes sont toujours exposées ensemble. Projeté ou installées comme on accroche des cartes postales : à côté et au-dessus les unes des autres, ou dans un empilement de télés cathodiques.
