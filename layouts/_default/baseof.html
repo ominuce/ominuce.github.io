@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.LanguageCode }}">
     {{- partial "head.html" . -}}
-    <body a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
+    <body a="{{ $.Site.Params.theme_config.appearance | default "auto"}}">
         <main class="page-content" aria-label="Content">
             <div class="w">
                 {{- block "main" . }}{{- end }}
@@ -21,8 +21,11 @@
       <div class="right-leg-upper"></div>
       <div class="right-leg-lower"></div>
       <div class="right-foot"></div>
-  </div>
-  {{ $scrollBuddy := resources.Get "js/scrollBuddy.js" }}
+    </div>
+    {{ $scrollBuddy := resources.Get "js/scrollBuddy.js" }}
   <script type="text/javascript" src="{{ $scrollBuddy.RelPermalink }}"></script>
+  {{ $oneko := resources.Get "js/oneko.js" }}
+  {{ $oneko_pic := resources.Get "js/oneko.gif" }}
+  <script type="text/javascript" src="{{ $oneko.RelPermalink }}" data-cat="{{ $oneko_pic.Permalink }}"></script>
     </body>
 </html>
