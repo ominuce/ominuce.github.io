@@ -22,7 +22,7 @@ De Passage est une double visite, un voyage à la frontière d'époques incompat
 Exploration invite le visiteur-voyageur à explorer la ville de Lierre dans un espace numérique, entre ruine et chantier, en une époque où la présence discrète de l'Architecte se fait encore sentir. Vestiges satellitaires, lampadaires mobiles et bâtiments héliotropes sont autant de vestiges archéologiques d'une histoire disloquée.
 Appartement se situe dans une époque plus lointaine, plus inconnue encore. Chantier Public s’ouvre aux visiteurs et dévoile une habitation, espace quasi-muséal qui laisse paraître les derniers reliquats de la vie de l'Architecte et de son projet. A l'extérieur, ne subsiste, comme toute trace d'une humanité devenue mythe, que d'étranges missives sans véritables destinataires, courriers perdus portés par les ultimes coursiers que sont devenus les oiseaux.
 
-*DE PASSAGE* est une expérience double, un [jeu vidéo](https://uce.itch.io/de-passage-exploration) (*exploration*) et une exposition physique (*De passage*). Conçu pendant le confinement, *DE PASSAGE* est le témoin des questionnements qui nous ont traversé pendant cette période. Repenser les villes, repenser les communautés et les communication, repenser les responsabilités.
+*DE PASSAGE* est une expérience double, un [jeu vidéo](https://uce.itch.io/de-passage-exploration) (*exploration*) et une exposition physique (*De passage*). Conçu pendant le confinement, *DE PASSAGE* est le témoin des questionnements qui nous ont traversé pendant cette période. Repenser les villes, repenser les communautés et les communications, repenser les responsabilités.
 
 ## Exploration
 
