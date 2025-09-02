@@ -4,7 +4,7 @@ date: 2017-12-08
 draft: false
 ---
 ![VOID](./images/VOID.gif#half)
-`unity | ~minutes | puzzle | première personne`
+`unity | ~ minutes | puzzle | première personne`
 
 Cette expérience était proposée dans le carde de : [C'est arrivé demain](https://www.poitiers.fr/cest-arrive-demain-la-bd-de-sf-envahit-poitiers-episode-1-planches-dessins-et-objets-de-collections), une exposition présentée par Le Miroir à Poitiers en 2017.
 

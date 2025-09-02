@@ -7,7 +7,7 @@ draft: false
 ![The Merlies](./images/logo.png)
 *logo The Merlies - [Cosmografik](https://bsky.app/profile/cosmografik.bsky.social)*
 
-`unity | 8h | recyclevania | sidescroll 2D`
+`unity | 8 heures | recyclevania | sidescroll 2D`
 
 *Les Merlies* est un side scroller 2D avec un double cœur gameplay, de l'exploration type metroidvania et du toy type village building.
 
