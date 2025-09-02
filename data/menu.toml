@@ -2,10 +2,15 @@
 title = "info"
 
   [[entries.entries]]
-  title = " Je travaille principalement à distance, j'ai l'habitude de vivre sur discord, teams, et ou slack. En termes de moteur, je travaille essentiellement sur unity je connais un peu le C# et m'adapte vite aux tools d'inté unity package ou maison. J'explore godot en ce moment, le gdscript et le moteur de façon générale, je connais très peu UE et n'ai jamais dev quoi que ce soit dessus."
+  title = " Artiste et Game Designer de formation. Je m’investis autant dans la création et le maintient d'une doc GD que dans le suivi des tâches d'intégration de celui-ci. J'ai une approche système, énigme et puzzle du GD."
   [[entries.entries]]
-  title = " Pour le GD et LD théorique, je travailles avec tous les tools collaboratifs disponibles (notion, miro, slide, etc.) et les mieux adaptés aux personnes de l'équipe. J'ai tendance à explorer toutes les pistes et d'en faire des propositions détaillées avant d'isoler ce qu'on va considérer comme étant la meilleure solution pour le jeu. Immédiatement, j'ai une approche généraliste du GD que j'espère spécialiser avec le temps, sûrement orienté puzzles et ou système."
+  title = " En GD et LD théorique, je m'adapte à tous les outils disponibles et les plus adaptés aux besoins de l'équipe. Avant de valider une feature, j'ai tendance à exposer et à détailler les propositions qui me semblent les plus pertinentes, pour que la décision revienne à terme à l'équipe, ou du moins l'équipe core."
 
+[[entries.entries]]
+  title = "En termes de moteur, je travaille sur unity depuis plus de 10 ans en 2D ou en 3D. Je me forme actuellement à Godot et au GD script."
+[[entries.entries]]
+  title = "Enfin, je fais toujours une veille active des sorties autant des tout petits indé comme gros studio pour pouvoir apporter de la solidité à mes propositions."
+  
 [[entries]]
 title = "jeux"
 
@@ -33,3 +38,6 @@ title = "tous les posts"
   show_more = false
   show_more_text = "voir les archives..."
   show_more_url = "posts"
+
+
+
