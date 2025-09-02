@@ -4,6 +4,8 @@ date: 2017-05-02
 draft: false
 ---
 
+`installation | 45 minutes | béton - photos - casque VR`
+
 J'ai articulé mon DNSEP (diplôme national supérieur d'expression plastique) et l'intégralité de mon travail d'artiste plasticien autour de la science-fiction des années 80-90 et de l'obsession de certains écrivains pour les nouvelles technologies et le témoignage de la transformation rapide du monde.
 
 On y trouve de la VR, des néons, du bétons, des paysages d'informations, dans une mise en scène sans anecdote.

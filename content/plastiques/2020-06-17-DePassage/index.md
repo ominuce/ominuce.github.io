@@ -9,6 +9,11 @@ draft: false
 *Exploration* & *Appartement*
 Une proposition de Vincent Kosellek, [Marianne Vieules](https://www.mariannevieules.space/) et Lucile Thierry (c'est moé)
 
+Exploration `unity | 10 minutes | exploration | première personne`
+
+Appartement `installation | vitrine | orchidées - lit de camp - néons - plâtres - lierre - chaise longue`
+
+
 Un voyageur foule du pied le sol synthétique d'une colline artificielle. Devant lui, un espace en suspens. La ville qu’il aperçoit a pour seule rumeur le chant de milliers d'oiseaux. Des lampadaires percent faiblement la brume marine. Invitation à la découverte, leur lumière dessine un chemin.
 Ni plate-forme ni île, ou peut-être les deux à la fois, l'impossible ville de Lierre se dresse. Elle est l'ultime terre ferme qui subsiste à la surface d'une planète rendue aux eaux. Elle n’appartient à aucun océan, aucun continent. Dans des temps si distants que l’on ne compte plus les dates, des temps où la vie sédentaire est devenue une antiquité, Lierre s’est construite telle un paradoxe monumental. Elle n’est approchée qu'occasionnellement, par quelques voyageurs que les courants ont rabattus par hasard vers son port. Le dernier véritable habitant de ce no man’s land est l’Architecte qui l’a imaginé.
 Conçue en période de crise sanitaire, l'exposition De passage jette un regard embrumé sur les hypothèses d'effondrement sociétal. 
