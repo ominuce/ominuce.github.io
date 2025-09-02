@@ -3,7 +3,7 @@ title: "minimes"
 date: 2015-09-01
 draft: false
 ---
-`installation projection ou télés | ~minutes | animations`
+`installation projection ou télés | ~ minutes | animations`
 
 Minimes est un ensemble d'animation en faux fixe d'objets gigantesques, de facture humaine. Détouré de toute anecdote l'objet flotte dans l'espace et donne un objectif à suivre du regard.
 Comme lors d'un transport.
