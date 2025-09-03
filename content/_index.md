@@ -3,7 +3,6 @@ title =  "uce :)"
 date = 2022-08-25T21:30:04+08:00
 draft = false
 +++
-Salut :)
 
 je suis uce, artiste game designer. Je suis actuellement game-level designer sur [The Merlies](https://store.steampowered.com/app/2521160/The_Merlies/) la prochaine sortie de [Darjeeling](https://darjeelingprod.com/).
 
