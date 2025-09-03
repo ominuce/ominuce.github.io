@@ -1,6 +1,6 @@
 ---
 title: "SWIFT"
-date: 2019
+date: 2019-07-04
 draft: false
 ---
 `unity | 20 minutes | course | troisième personne`
