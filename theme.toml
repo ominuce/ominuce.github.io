@@ -2,7 +2,6 @@
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
 name = "no-style-please"
-title = "uce"
 license = "MIT"
 licenselink = "https://github.com/Masellum/hugo-theme-nostyleplease/blob/main/LICENSE"
 description = "a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please."

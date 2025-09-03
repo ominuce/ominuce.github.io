@@ -15,7 +15,7 @@ title = "jeux"
 
   [entries.post_list]
   section = "jeux"
-  limit = 4
+  limit = 5
   show_more = true
   show_more_text = "voir les archives..."
   show_more_url = "jeux"
@@ -25,18 +25,18 @@ title = "plastiques"
 
   [entries.post_list]
   section = "plastiques"
-  limit = 4
+  limit = 5
   show_more = true
   show_more_text = "voir les archives..."
   show_more_url = "plastiques"
 
-[[entries]]
-title = "tous les posts"
+#[[entries]]
+#title = "tous les posts"
 
-  [entries.post_list]
-  show_more = false
-  show_more_text = "voir les archives..."
-  show_more_url = "posts"
+  #[entries.post_list]
+  #show_more = false
+  #show_more_text = "voir les archives..."
+  #show_more_url = "posts"
 
 
 

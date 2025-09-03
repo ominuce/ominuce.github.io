@@ -40,5 +40,6 @@ capitalizeListTitles = false
     appearance        = "auto"
     back_home_text    = ".."
     date_format       = "2006-01-02"
+    date_short_format = "2006"
     isListGroupByDate = false
     isShowFooter      = true

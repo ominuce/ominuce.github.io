@@ -1,6 +1,6 @@
 ---
 title: "Lost In Depiction"
-date: 2022-01-01
+date: 2022-10-09
 draft: false
 ---
 
