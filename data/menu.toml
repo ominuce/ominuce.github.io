@@ -33,9 +33,6 @@ title = "plastiques"
 [[entries]]
 title = "pdf"
 
-  [entries.post_list]
-  section = "pdf"
-  limit = 5
-  show_more = false
-  show_more_text = "voir les archives..."
-  show_more_url = "pdf"
+  [[entries.entries]]
+  title = "CV"
+  url = "lucilethierry_GD_CV_2025.pdf"
