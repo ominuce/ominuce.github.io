@@ -30,13 +30,12 @@ title = "plastiques"
   show_more_text = "voir les archives..."
   show_more_url = "plastiques"
 
-#[[entries]]
-#title = "tous les posts"
+[[entries]]
+title = "pdf"
 
-  #[entries.post_list]
-  #show_more = false
-  #show_more_text = "voir les archives..."
-  #show_more_url = "posts"
-
-
-
+  [entries.post_list]
+  section = "pdf"
+  limit = 5
+  show_more = false
+  show_more_text = "voir les archives..."
+  show_more_url = "pdf"
