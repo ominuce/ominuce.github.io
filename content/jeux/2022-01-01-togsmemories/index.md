@@ -4,7 +4,7 @@ date: 2021-01-10
 draft: false
 ---
 ![TM](./images/logo_white.png#half)
-*logo togs - [Sebastian Pastor Ploskonka](https://www.artstation.com/plosko){target='_blank'}*
+*logo togs - [Sebastian Pastor Ploskonka](https://www.artstation.com/plosko)*
 
 `unity | 20 minutes | puzzle | troisième personne & top down`
 [Itch.io](https://uce.itch.io/togs-memories)
