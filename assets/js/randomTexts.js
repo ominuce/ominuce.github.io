@@ -1,8 +1,6 @@
 (function () {
-  const button = document.getElementById("button id")
+  const button = document.getElementById("buttonId")
   button.addEventListener('click', function () {
-    button.textContent = "nouveau texte"
-    button.
+    button.textContent = "myText"
   });
 })();
-
