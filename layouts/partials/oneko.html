@@ -1,0 +1,3 @@
+{{ $oneko := resources.Get "js/oneko.js" }}
+{{ $oneko_pic := resources.Get "js/oneko.gif" }}
+<script type="text/javascript" src="{{ $oneko.RelPermalink }}" data-cat="{{ $oneko_pic.Permalink }}"></script>
