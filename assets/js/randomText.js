@@ -11,7 +11,8 @@ texts = [
 ];
 	document.getElementById("randomText").innerText = texts[Math.floor(Math.random()*texts.length)];
 
-  const button = document.getElementById('randomButton');
+
+    const button = document.getElementById('randomButton');
 
 button.addEventListener('click', function () {
 

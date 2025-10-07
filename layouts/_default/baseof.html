@@ -27,7 +27,5 @@
   {{ $oneko := resources.Get "js/oneko.js" }}
   {{ $oneko_pic := resources.Get "js/oneko.gif" }}
   <script type="text/javascript" src="{{ $oneko.RelPermalink }}" data-cat="{{ $oneko_pic.Permalink }}"></script>
-  {{ $randomText := resources.Get "js/randomText.js" }}
-  <script type="text/javascript" src="{{ $randomText.RelPermalink }}"></script>
     </body>
 </html>
