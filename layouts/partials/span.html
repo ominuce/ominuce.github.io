@@ -1,1 +1,4 @@
-<span> texte de base </span>
+<marquee id= "randomText"> texte de base </marquee>
+<button id="button id"> button </button>
+{{ $span := resources.Get "js/randomTexts.js" }}
+<script type="text/javascript" src="{{ $span.RelPermalink }}"></script>
