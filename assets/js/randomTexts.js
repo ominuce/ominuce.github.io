@@ -9,10 +9,9 @@
   "n'hésitez pas à me contacter"
 ];
 
-const chaine1 = texts [0]
-console.log("premiere entrée " + texts)
+const chaine1 = texts[Math.floor(Math.random()*texts.length)]
+console.log("premiere entrée " + chaine1)
 myText.addEventListener('click', function() {
-  texts.textContent = texts[Math.floor(Math.random()*texts.length)]
-  
-});
-});
+  myText.textContent = chaine1
+})
+})();
