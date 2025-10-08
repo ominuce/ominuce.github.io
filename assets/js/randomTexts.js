@@ -13,7 +13,6 @@ const chaine1 = texts [0]
 console.log("premiere entrée " + texts)
 myText.addEventListener('click', function() {
   texts.textContent = texts[Math.floor(Math.random()*texts.length)]
-  console.log("premiere entrée " + texts)
-
+  
 });
 });
