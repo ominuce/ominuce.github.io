@@ -36,18 +36,6 @@ title = "pdf"
   [[entries.entries]]
   title = "CV"
   url = "lucilethierry_GD_CV_2025.pdf"
-
   [[entries.entries]]
-  title = "Recommandation"
+  title = "Lettre de recommendation"
   url = "lucilethierry_GD_lettre_reco_2025.pdf"
-
-[[entries]]
-title = "décorations"
-
-  [[entries.entries]]
-  title = "oneko"
-  url = "https://github.com/glreno/oneko?tab=readme-ov-file"
-
-  [[entries.entries]]
-  title = "scrollbuddy"
-  url = "https://scrollbuddy.com/"

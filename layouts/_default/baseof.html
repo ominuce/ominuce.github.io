@@ -5,7 +5,6 @@
         <main class="page-content" aria-label="Content">
             <div class="w">
                 {{- block "main" . }}{{- end }}
-                {{ partial "footer.html" }}
             </div>
         </main>
     <div id="scrollBuddy">
@@ -24,8 +23,7 @@
     </div>
     {{ $scrollBuddy := resources.Get "js/scrollBuddy.js" }}
   <script type="text/javascript" src="{{ $scrollBuddy.RelPermalink }}"></script>
-  {{ $oneko := resources.Get "js/oneko.js" }}
-  {{ $oneko_pic := resources.Get "js/oneko.gif" }}
-  <script type="text/javascript" src="{{ $oneko.RelPermalink }}" data-cat="{{ $oneko_pic.Permalink }}"></script>
+  {{- partial "oneko.html" . -}}
+  {{- partial "span.html" . -}}
     </body>
 </html>
