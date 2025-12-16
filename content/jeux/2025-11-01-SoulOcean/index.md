@@ -13,7 +13,7 @@ Gamejam proposé par [Fantasià](https://fantasià.cc/) sur le thème "un été 
 
 Dans les couloirs du donjon, des **ennemis** bloquent la progression de Crevettux et l’**eau est de plus en plus froide**, Crevettux doit se dépêcher de **remonter à la surface** pour pas finir en Mr. Freeze.
 
-Dégommez vos ennemis avec votre **pince pewpew**, utilisez l’environnement pour **esquiver et vous enfuire**, cherchez les passages secrets, mais ne vous faites pas rattraper par le **flash freeze**.
+Dégommez vos ennemis avec votre **pince laser (pewpew)**, utilisez l’environnement pour **esquiver et vous enfuire**, cherchez les passages secrets, mais ne vous faites pas rattraper par le **flash freeze**.
 
 ![Nook](./images/nook.png)
 
