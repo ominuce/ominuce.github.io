@@ -16,3 +16,6 @@ draft = false
   title = "En termes de moteur, je travaille sur unity depuis plus de 10 ans en 2D ou en 3D. Je me forme actuellement à Godot et au GD script."
   [[entries.entries]]
   title = "Enfin, mon travail plastique s'inscrit dans la science-fiction, le cyberpunk et le jeu vidéo. Une veille dans ces domaines (plastique, jv et informatique) me permet de continuer d'exercer mes pratiques de conserve."
+
+
+  

@@ -1,19 +1,22 @@
 [[entries]]
 title = "infos"
 
-  [[entries.entries]]
-  title = "CV"
-  url = "lucilethierry_GD_CV_2025.pdf"
-  [[entries.entries]]
-  title = "Lettre de recommendation"
-  url = "lucilethierry_GD_lettre_reco_2025.pdf"
-
   [entries.post_list]
   section = "infos"
   limite = 5
   show_more = true
   show_more_text = "voir les archives..."
   show_more_url = "infos"
+
+[[entries]]
+title = "papiers"
+
+[[entries.entries]]
+  title = "CV"
+  url = "lucilethierry_GD_CV_2025.pdf"
+[[entries.entries]]
+  title = "Lettre de recommendation"
+  url = "lucilethierry_GD_lettre_reco_2025.pdf"
 
 [[entries]]
 title = "jeux"
@@ -34,3 +37,5 @@ title = "plastiques"
   show_more = true
   show_more_text = "voir les archives..."
   show_more_url = "plastiques"
+
+
