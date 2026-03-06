@@ -1,6 +1,6 @@
 ---
 title: "Soul Ocean"
-date: 2023-04-10
+date: 2025-09-20
 draft: false
 --- 
 ![Soul Ocean](./images/UI_Favicon.png) 
