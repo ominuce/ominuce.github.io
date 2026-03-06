@@ -10,13 +10,12 @@ title = "infos"
 
 [[entries]]
 title = "papiers"
-
-[[entries.entries]]
-  title = "CV"
-  url = "lucilethierry_GD_CV_2025.pdf"
-[[entries.entries]]
-  title = "Lettre de recommendation"
-  url = "lucilethierry_GD_lettre_reco_2025.pdf"
+  [[entries.entries]]
+    title = "CV"
+    url = "lucilethierry_GD_CV_2025.pdf"
+  [[entries.entries]]
+    title = "Lettre de recommendation"
+    url = "lucilethierry_GD_lettre_reco_2025.pdf"
 
 [[entries]]
 title = "jeux"
@@ -38,4 +37,12 @@ title = "plastiques"
   show_more_text = "voir les archives..."
   show_more_url = "plastiques"
 
+[[entries]]
+title = "gamejams"
 
+  [entries.post_list]
+  section = "gamejams"
+  limit = 5
+  show_more = true
+  show_more_text = "voir les archives..."
+  show_more_url = "gamejams"
